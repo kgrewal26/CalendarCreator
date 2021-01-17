@@ -1,0 +1,30 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  height: 200vh;
+  margin: 2em;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+}
+
+h1 {
+  font-family: Comfortaa
+  color: #ffffff;
+}
+
+img{
+  
+}
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
